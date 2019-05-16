@@ -1,0 +1,31 @@
+Batch 5 Questions
+-----------------
+
+
+1. What is the Minimum General fare for each train type for individual classes (10 marks)
+
+2. What is the breakpoint - change in fare for train categories whose maximum travel range is below 500kms (10 marks)
+
+3. Which are the cheapest train to travel from the Indian Capital and state capitals of the country for each classes. Display Train number along with the class and Fare with GST if applicable. (15 marks)
+
+4. Which is the fastest train from Bengaluru to other BRIDGEi2i offices across India. (10 marks)
+
+5. Which is the station through which maximum number of trains pass through halts (10 marks)
+
+6. Find the number of train halting in Zonal headquarters of each region. Get the sum if the zonal headquarter repeats for multiple zones (10 marks)
+
+7. Ashish wants to brief the teams in Mumbai, Pune and New Delhi personally on BRIDGEi2i 2.0 and thus have to plan a trip to all these places.
+Kindly provide an railway internary such that all the meetings happen between 10am to 12pm and he should not stay in a city more than a day. Kindly give the cost for booking 2A according to the iternary
+(20 marks)
+
+8. Compare all the Rajdhani express running across based on the 
+i)		Total time to reach final destination from source
+ii)		Cost of the journey
+iii)	Number of days available in a week
+(20 marks)
+
+
+9. What is the average speed of Ordinary train, Mail/Express (10 marks)
+
+10. For each Rajdhani starting from Delhi (New Delhi, H. Nizamuddin, Delhi Cantt.) find number of high density stations they pass through and the higest density station they cross. (High density - Number of trains passing through >= 80) (20 marks)
+

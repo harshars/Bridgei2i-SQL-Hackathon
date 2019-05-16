@@ -1,0 +1,26 @@
+Batch 4 Questions
+-------------------
+
+
+
+
+1. Starting from the source, mark the day spent in travel by the train from 0 onwards, until it reaches the destination (10 marks)
+   Note: from 00:00:00 next day starts
+
+2. Identify the slowest train in the indian railways. Slowness is a factor of distance covered in given time (15 marks)
+
+3. For each alphabet(A-Z) identify the pair of station codes that are fartest from each other (Use GPS location) (10 marks)
+
+4. Find the most inefficient railway route. Inefficiency is a factor if differece between the distance according to GPS cooridnated and the distance actually travelled by the train (15 marks)
+
+5. Identify most similar looking station codes which might confuse the people most. (Same starting alphabets and smallest Hamming distance) (10 marks)
+
+6. For a given day and source and destination give the set of trains ordered by the criteria users give. (filters will be given by users) (15 marks)
+
+7. Find the longest station name and does it necessarily have the longest satation code. (10 marks)
+
+8. Find the total number of Junctions that are available in the indian railways. (10 marks)
+
+9. Which train/trains cover the most number of stations. (10 marks)
+
+10. Number of trains crossing the same station at same time(10 mins interval) (15 marks)

@@ -1,0 +1,19 @@
+Batch 3 Questions
+------------------
+Total Marks - 90
+-----------------
+
+
+1. Find the train numbers which takes varing travel time From A to B & B to A. (10 marks)
+
+2. Find the fastest train between Delhi & Howrah on any day. (10 marks)
+
+3. Saran whants to travel from Delhi to Howrah to meet his friend on any day between 01-01-2019 to 09-01-2019. He can only start his journey before-noon. Help him to find all the days that he can travel by spending less time in the journey. (15 marks)
+
+4. Find the unique Category of high trains (word preceding Express in the name is the category) (10 marks)
+
+5. For each high train category, find the number of trains that are availble for more than 4 days a week. (10 marks)
+
+6. Find the ratio of trains available for more than 3 days for each category of high train. (15 marks)
+
+7. For each category, find the source station from where maximum number of high trains depart. Also give the number (20 marks)

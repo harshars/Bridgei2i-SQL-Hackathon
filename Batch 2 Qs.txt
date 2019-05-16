@@ -1,0 +1,23 @@
+Batch 2 Questions
+------------------
+Total Marks - 135
+---------------
+
+
+1. Find the busiest station code (10 marks)
+2. Saran stays in Bangalore and whats to know how may tarins are passing by his city, can you help him? (10 marks)
+3. Saran whats to know the location wise no.of stations, can you find it in the decreasing order? (10 marks)
+
+4. Suresh is the new railway minister who promised the people in "Takkolam" to create new railway station. he is struglling in choosing the Station code, help him to find a station code which should be unique. (20 marks)
+
+5. Suresh has found that the "Trains passing through" details are missing for few stations and wants to updated if using the train_timetable details. (20 marks)
+
+6. There are few stations which got 4 letter station codes, help suresh to make this 4 letters codes to 3 letter codes, just by removing any of the charecter from 2-4 position wherever possible. (15 marks)
+
+7. Find the stations code(s) which has the maximum unique characters in it. (10 marks)
+
+8. Find the stations code(s) which has the maximum ratio of unique characters in it(ratio = no.of unique char/ total no.of char).(10 marks)
+
+9. To help railways to minimize the load on the tracks, Find the geographical distance of train with density > 100 from New Delhi, so that they can plan something better (20 marks)
+
+10. What is the average speed of Shatabti category of high trains (10 marks)
